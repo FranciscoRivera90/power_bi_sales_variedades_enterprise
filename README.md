@@ -38,6 +38,20 @@ IF(
     DIVIDE([Total Ventas] - __PREV_MONTH, __PREV_MONTH)
 )
 
+## 🎨 Visualizaciones del desarrollo
+
+A continuación, se presentan las principales vistas creadas durante el desarrollo del dashboard en Power BI:
+
+### 📊 Dashboard general  
+![Dashboard General](./Captura%20de%20pantalla%202025-11-12%20225848.png)
+
+### 🧩 Modelo de datos relacional  
+![Modelo de Datos](./Captura%20de%20pantalla%202025-11-12%20225858.png)
+
+### 🧮 Medida DAX personalizada  
+![Medida DAX](./Captura%20de%20pantalla%202025-11-12%20225921.png)
+
+
 🌍 Visualización Interactiva
 
 🔗 Explora el Dashboard en Power BI (Acceso Microsoft)
